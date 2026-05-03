@@ -64,3 +64,8 @@ htmlcov/
 
 # ===== Internal =====
 /.work/
+
+# ===== Tiger Brawl Game =====
+!tiger-brawl/
+!tiger-brawl.apk
+!android-sdk/
